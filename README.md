@@ -67,6 +67,9 @@ TG-Grupo8-Informer-Solar/
 ├── 02_preprocesamiento.ipynb
 ├── 03_eda_post_preprocesamiento.ipynb
 └── 04_feature_engineering.ipynb
+└── 05_modelo_informer_entrenamiento
+└── 06_evaluacion_comparacion_variantes
+└── 07_diagnostico_modelo
 ```
 
 ---
